@@ -19,6 +19,7 @@
     "express": "^4.16.3",
     "lodash": "^4.17.11",
     "mongoose": "^6.0.13",
-    "webpack": "^5.88.1"
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
   }
 }
